@@ -1,0 +1,24 @@
+//SETUP:
+@import "setup/variables";
+@import "setup/functions";
+@import "setup/mixins";
+//BASE:
+@import "base/base";
+@import "base/buttons";
+@import "base/helpers";
+@import "base/typography";
+@import "base/animations";
+
+//LAYOUT:
+@import "layout/layout";
+//CMPS:
+@import "cmps/header";
+@import "cmps/sidebar";
+@import "cmps/gallery";
+@import "cmps/overview";
+@import "cmps/recommend";
+@import "cmps/review";
+@import "cmps/cta";
+
+
+
